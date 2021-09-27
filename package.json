@@ -1,0 +1,26 @@
+{
+  "name": "test_back_aloreat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mystere974/test_back_aloreat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mystere974/test_back_aloreat/issues"
+  },
+  "homepage": "https://github.com/mystere974/test_back_aloreat#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.26.0",
+    "prettier-eslint": "^13.0.0"
+  }
+}
